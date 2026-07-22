@@ -15,5 +15,5 @@ This project provides a reliable, transparent algorithm to help micro-finance in
 ### How to Run
 1. Clone the repository:
    ```bash
-   git clone [https://github.com/YOUR_USERNAME/simple-interest-calculator.git](https://github.com/YOUR_USERNAME/simple-interest-calculator.git)
+   git clone (https://github.com/Mehransangi/simple-interest-calculator.git)
    cd simple-interest-calculator
