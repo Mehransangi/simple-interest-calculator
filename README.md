@@ -1,19 +1,10 @@
-# Simple Interest Calculator for Micro-Finance
+# Simple Interest Calculator Tool
 
-A lightweight, open-source script designed to calculate simple interest on loans and savings products for low-income individuals and small micro-finance operations.
+A simple bash script that calculates simple interest given principal, annual rate of interest, and time period in years.
 
-## 📌 Purpose
-This project provides a reliable, transparent algorithm to help micro-finance initiatives calculate simple loan interest quickly without relying on expensive software infrastructure.
+## Usage
 
-## 🚀 Usage
+Run the bash script:
 
-### Prerequisites
-* Unix-like environment (Linux, macOS, WSL)
-* `bash` shell
-* `bc` (Basic Calculator utility)
-
-### How to Run
-1. Clone the repository:
-   ```bash
-   git clone (https://github.com/Mehransangi/simple-interest-calculator.git)
-   cd simple-interest-calculator
+```bash
+./simple-interest.sh
